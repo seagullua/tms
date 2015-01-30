@@ -1,0 +1,10 @@
+# JVM              == java
+# JVMOptions       == -Xmx1024m -Djava.awt.headless=true
+# JDB              == jdb
+# JDBOptions       == 
+# ApplicationClass == com.apple.transporter.Application
+
+APPROOT/Resources/Java/
+APPROOT/Resources/Java/itmstransporter.jar
+
+
